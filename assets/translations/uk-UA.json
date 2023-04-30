@@ -1,0 +1,21 @@
+{
+  "app_name": "app_name",
+  "email": "email",
+  "password": "password",
+  "searchHint": "Пошук",
+  "create_announcement": "Створити оголошення",
+  "change_to": "міняє",
+  "authentication": "Увійти",
+  "app_theme": "Тема додатку",
+  "app_theme_desc": "Оберить тему додатку",
+  "app_language": "Мова додатку",
+  "app_lang_desc": "Оберить мову додатку",
+  "auth_title": "Вхід у додаток",
+  "auth_desc": "Автентифікувати у додатоку",
+  "invalid_email": "не вірний формат пошти",
+  "registr": "Реістрація",
+  "fill_user_info": "Про тебе",
+  "back_to_sign_in": "Повернутись до входу",
+  "email_not_registered": "Не вдалось знайти оббліковий запис за вказаним e-mail. Якщо виникла помилка в e-mail натисніть 'Повернутись до входу' або зареєструйтесь.",
+  "not_authorized": "Видхилено"
+}

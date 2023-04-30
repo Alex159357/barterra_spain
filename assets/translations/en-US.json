@@ -1,0 +1,21 @@
+{
+  "app_name": "app_name",
+  "email": "email",
+  "password": "password",
+  "searchHint": "Search",
+  "create_announcement": "Create Announcement",
+  "change_to": "change to",
+  "authentication": "Authentication",
+  "app_theme": "App theme",
+  "app_theme_desc": "use dark theme",
+  "app_language": "App language",
+  "app_lang_desc": "Select app language",
+  "auth_title": "Sign in",
+  "auth_desc": "Authenticate in app",
+  "invalid_email": "invalid email format",
+  "registr": "Registration",
+  "fill_user_info": "About you",
+  "back_to_sign_in": "Back to sign in",
+  "email_not_registered": "It was not possible to find the account for the specified e-mail",
+  "not_authorized": "Not authorized"
+}

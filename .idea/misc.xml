@@ -1,0 +1,11 @@
+<project version="4">
+  <component name="FlutterPreviewSettings">
+    <option name="transformerFilePath" value="$PROJECT_DIR$/lib/ui/view/auth/login_view.dart" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="android" />
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
